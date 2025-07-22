@@ -1,12 +1,12 @@
-The Genesis Protocol
-A prompt-based framework that turns a simple Markdown file into a persistent, verifiable, and secure "brain" for any AI project. Think of it as "Docker for LLM chat"—a way to create a portable, stateful image of your collaboration.
+**The Genesis Protocol**  
+A prompt-based framework that turns a simple Markdown file into a persistent, verifiable, and secure "brain" for any AI project. Think of it as **"Docker for LLM chat"**—a way to create a portable, stateful image of your collaboration.
 
-Created by: K.Bharadwaj and Google's Gemini
+**Created by: K.Bharadwaj and Google's Gemini**  
 
-Version: 1.0 (Methodology)
+**Version: 1.0** (Methodology)
 
-What is the Genesis Protocol?
-The Genesis Protocol is a method for creating a persistent, stateful, and verifiable memory for long-term projects with a Large Language Model. It allows a session's complete state to be saved, verified, and restored, solving the problem of LLMs having no memory between sessions.
+**What is the Genesis Protocol?** 
+*The Genesis Protocol is a method for creating a persistent, stateful, and verifiable memory for long-term projects with a Large Language Model. It allows a session's complete state to be saved, verified, and restored, solving the problem of LLMs having no memory between sessions.*  
 
 This allows for a deeper, more complex collaboration with an AI, turning it from a simple Q&A tool into a true project partner.
 
