@@ -16,7 +16,7 @@ This guide provides everything you need to start a new, persistent, and verifiab
 Step 1: Understand the Project Genesis File Structure
 This is the template for the file that will become your project's living memory. The AI will generate this for you in Step 3.
 
-# Project Genesis File: [Your Project Name]
+'''# Project Genesis File: [Your Project Name]
 **Version:** 1.0
 **Last Updated:** [Timestamp]
 
@@ -46,7 +46,7 @@ This is the template for the file that will become your project's living memory.
 ## 6. Project Log / Version History
 ### Version 1.0
 * **User:** The Bootstrap Prompt to initialize this project.
-* **AI:** The response that generated this file.
+* **AI:** The response that generated this file.'''
 
 Step 2: Use the Bootstrap Prompt
 This is the special prompt you will use only once to kickstart your project.
