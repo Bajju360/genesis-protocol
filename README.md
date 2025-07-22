@@ -86,6 +86,18 @@ Give the Prompt to an AI: Provide your completed Bootstrap Prompt to an advanced
 
 Receive the File: The AI will process your request and generate the full text for Project Genesis File v1.0, complete with its first calculated Integrity Seal.
 
+---
+
+### Proof of Concept & Examples
+
+This protocol has been successfully implemented and tested. You can view the real output files in the `examples` directory of this repository:
+
+1.  **[Our Original Collaboration File (`genesis-file-v4.0-gemini-collaboration.md`)](./genesis-file-v4.0-gemini-collaboration.md):** This is the complete, unabridged Genesis File that was co-designed by K.Bharadwaj and Google's Gemini. It serves as the original design document and a real-world example of the protocol in action. - Secret_Key: LetsconnectwithLLM. - test it out by uploading the file and prompt as Secret_key
+
+2.  **[GPT-4 Reproducibility Test (`genesis-protocol-gpt4-reproducibility-test.md`)](./genesis-protocol-gpt4-reproducibility-test.md):** This file is the direct output from providing the Genesis Protocol's "Bootstrap Prompt" to OpenAI's GPT-4. It successfully created a new, sealed `v1.1` file, proving that the protocol is reproducible across different advanced AI models. Secret_Key: LetsconnectwithLLM. - test it out by uploading the file and prompt as Secret_key
+
+---
+
 Save the File: Save this output as a Markdown file (e.g., MyProject_Genesis_v1.0.md).
 
 You have now successfully started a new door. Your project is initialized, secure, and reproducible. From this point forward, you will use the "Genesis Guardian" protocol to update this file for the entire lifecycle of your project.
