@@ -1,13 +1,17 @@
-# Genesis-Protocol
-The Genesis Protocol is a prompt-based framework that turns a simple Markdown file into a persistent, verifiable, and secure "brain" for any AI project. Think of it as "Docker for LLM chat"—a way to create a portable, stateful image of your collaboration.
+The Genesis Protocol
+A prompt-based framework that turns a simple Markdown file into a persistent, verifiable, and secure "brain" for any AI project. Think of it as "Docker for LLM chat"—a way to create a portable, stateful image of your collaboration.
 
 Created by: K.Bharadwaj and Google's Gemini
-Concept: A method for creating a persistent, stateful, and verifiable memory for long-term projects with a Large Language Model. It functions "like Docker for LLM chat," allowing a session's complete state to be saved, verified, and restored.
 
-The Genesis Protocol: A Getting Started Guide
-This guide provides everything you need to start a new, persistent, and verifiable collaboration with an AI using the Genesis Protocol.
+Version: 1.0 (Methodology)
 
-The Goal: To create Project Genesis File v1.0, the starting point for your project's memory.
+What is the Genesis Protocol?
+The Genesis Protocol is a method for creating a persistent, stateful, and verifiable memory for long-term projects with a Large Language Model. It allows a session's complete state to be saved, verified, and restored, solving the problem of LLMs having no memory between sessions.
+
+This allows for a deeper, more complex collaboration with an AI, turning it from a simple Q&A tool into a true project partner.
+
+Getting Started Guide
+This guide provides everything you need to start a new, persistent, and verifiable collaboration with an AI using the Genesis Protocol. The goal is to create Project Genesis File v1.0, the starting point for your project's memory.
 
 Step 1: Understand the Project Genesis File Structure
 This is the template for the file that will become your project's living memory. The AI will generate this for you in Step 3.
